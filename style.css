@@ -1,0 +1,40 @@
+img{
+	width: 350px;
+	height: 250px;
+	object-fit: cover;
+	padding: 10px;
+	background-color: white;
+
+}
+
+body{
+	text-align: center;
+	font-family: 'Lobster';cursive;
+	font-size: 35px;
+
+	background: linear-gradient(90deg, #efd5ff 0%, #515ada 100%);
+}
+div{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+
+}
+
+.player {
+	width: 350px;
+}
+
+#websitetitle {
+	font-size: 65px;
+}
+
+#websitetitle:hover {
+	background-color: black;
+	color: white;
+}
+
+.player:hover {
+	background-color: black;
+	color: white;
+}
