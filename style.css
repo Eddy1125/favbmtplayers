@@ -38,3 +38,12 @@ div{
 	background-color: black;
 	color: white;
 }
+
+a{
+	text-decoration: none;
+	color: black;
+}
+
+a:hover{
+	color: white;
+}
